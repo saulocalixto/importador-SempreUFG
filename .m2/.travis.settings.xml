@@ -1,0 +1,11 @@
+<Settings Xmlns="Http://Maven.Apache.Org/SETTINGS/1.0.0"
+          Xmlns:Xsi="Http://Www.W3.Org/2001/XMLSchema-Instance"
+          Xsi:SchemaLocation="Http://Maven.Apache.Org/SETTINGS/1.0.0
+                      Http://Maven.Apache.Org/Xsd/Settings-1.0.0.Xsd">
+  <Servers>
+    <Server>
+      <Id>packagecloud-travis</Id>
+      <Password>I2qe8LkF6jyMN1S_PZzSzA</Password>
+    </Server>
+  </Servers>
+</Settings>

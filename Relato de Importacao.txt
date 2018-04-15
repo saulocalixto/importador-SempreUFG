@@ -1,1 +1,2 @@
-1 egressos foram adicionados com sucesso.
+Não foi possível inserir o egresso. Exception: ERROR: duplicate key value violates unique constraint "egresso_tipo_documento_identidade_numero_documento_identida_key"
+  Detalhe: Key (tipo_documento_identidade, numero_documento_identidade)=(RG, 385684) already exists.

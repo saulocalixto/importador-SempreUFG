@@ -6,4 +6,4 @@ env:
 language: java
 jdk:
 - oraclejdk8
-script: mvn -f sandbox/pom.xml clean package coveralls:report sonar:sonar -P cobertura -Dsonar.login=60c6ee5d8343bc49506e4279b44cd79852908c12
+script: mvn -f sandbox/pom.xml clean package coveralls:report sonar:sonar -P cobertura -Dsonar.login=z9OYNKajsVsbyKr5pRjt7tNRLuHeCQYuU
